@@ -1,0 +1,15 @@
+[{
+  "Name": "literate",
+  "Description": "support for literate programming with zyedidia/Literate",
+  "Tags": ["literate", "literate-programming"],
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "Url": "https://github.com/zyedidia/literate/archive/v1.0.0.zip",
+      "Require": {
+        "micro": ">=1.2.0"
+      }
+    }
+  ]
+}]
+
