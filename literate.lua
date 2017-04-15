@@ -1,4 +1,4 @@
-VERSION = "1.0.0"
+VERSION = "0.0.1"
 
 function startswith(str, start)
    return string.sub(str,1,string.len(start))==start

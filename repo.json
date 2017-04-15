@@ -4,10 +4,10 @@
   "Tags": ["literate", "literate-programming"],
   "Versions": [
     {
-      "Version": "1.0.0",
-      "Url": "https://github.com/zyedidia/literate/archive/v1.0.0.zip",
+      "Version": "0.0.1",
+      "Url": "https://github.com/zyedidia/literate/archive/v0.0.1.zip",
       "Require": {
-        "micro": ">=1.2.0"
+        "micro": ">=1.1.5-dev.138"
       }
     }
   ]
